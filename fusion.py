@@ -17,3 +17,4 @@ def combine_emotions(sets: list) -> list:
         })
     result.sort(key=lambda x: x['score'], reverse=True)
     return result
+ 
