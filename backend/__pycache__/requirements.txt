@@ -1,8 +1,0 @@
-flask
-flask-cors
-transformers
-torch==2.2.2+cpu
-librosa
-scikit-learn
-soundfile
-numpy
